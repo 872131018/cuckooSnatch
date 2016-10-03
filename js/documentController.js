@@ -1,5 +1,4 @@
-function documentController()
-{
+function delegator() {
 	$(document).on('keydown',
         function(e)
         {
